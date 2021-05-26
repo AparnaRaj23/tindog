@@ -1,5 +1,6 @@
 # TinDog
-Website for a fictional application named TinDog (Tinder for dogs).
+Website for a fictional application named TinDog (Tinder for dogs).  
+It allows the user to find other dogs from different owners nearby in the swipe left/right style made famous by Tinder.
 
 # Deployment
 Deployed Website: https://aparnaraj23.github.io/TinDog/
